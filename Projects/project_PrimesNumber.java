@@ -1,6 +1,7 @@
+package com.exchange;
 import java.util.Scanner;
 
-public class PrimesNumber {
+public class project_PrimesNumber {
 
     public static void main(String args[])
     {
